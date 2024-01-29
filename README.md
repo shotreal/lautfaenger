@@ -20,10 +20,10 @@ The arduino code to to record sound, perform Fourier analysis, and calculate noi
 ## 3D Model Renderings
 
 ### Case Rendering 01
-![Case 01](3D/lautfaenger01.png)
+![Case 01](./3D/lautfaenger01.png | width=800)
 
 ### Case Rendering 02
-![Case 02](3D/lautfaenger02.png)
+![Case 02](./3D/lautfaenger02.png | width=800)
 
 ### Case Rendering 03
-![Case 03](3D/lautfaenger03.png)
+![Case 03](./3D/lautfaenger03.png | width=800)
