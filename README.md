@@ -15,7 +15,7 @@ This project aims to contribute to the awareness and management of noise polluti
 ## Current State of Work
 
 The hardware design, including the 3D-printed case, is complete and available in the "3D" subfolder. 
-The arduino code to to record sound, perform Fourier analysis, and calculate noise levels per frequency band is work in progress. The next steps involves uploading this data to a webserver and visualizing it using InfluxDB and Grafana.
+The arduino code to to record sound, perform Fourier analysis, and calculate noise levels per frequency band is work in progress. After this is completed the next steps involves uploading this data to a webserver and visualizing it using InfluxDB and Grafana.
 
 ## 3D Model Renderings
 
