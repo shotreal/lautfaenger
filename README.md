@@ -19,12 +19,11 @@ The arduino code to to record sound, perform Fourier analysis, and calculate noi
 
 ## 3D Model Renderings
 
-### Case Rendering 01
-<img src="https://github.com/shotreal/lautfaenger/blob/main/3D/Lautfaenger01.png" alt="Case 02" width="100%">
+### Bottom view with cover
+<img src="https://github.com/shotreal/lautfaenger/blob/main/3D/Lautfaenger01.png" alt="Bottom view with cover" width="100%">
 
+### Bottom view without cover
+<img src="https://github.com/shotreal/lautfaenger/blob/main/3D/Lautfaenger02.png" alt="Bottom view without cover" width="100%">
 
-### Case Rendering 02
-![Case 02](./3D/lautfaenger02.png)
-
-### Case Rendering 03
-![Case 03](./3D/lautfaenger03.png)
+### Top view
+<img src="https://github.com/shotreal/lautfaenger/blob/main/3D/Lautfaenger03.png" alt="Top view" width="100%">
