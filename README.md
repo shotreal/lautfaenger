@@ -21,7 +21,8 @@ The sound levels produced by the AD converter somehow need to be matched to db o
 The readings of the app can then be used to calibrate.
 
 
-## 3D Model Renderings
+## Casing
+In order to have a somewhat weatherproof enclouure for the hardware this simple case was designed. The case consists of two parts: inside and outside. All componets can simply be put on mounting posts on the "outside" part. The components are held in place by mounting posts reaching down on them from the "inside" part. Both parts are screwed together. 
 
 ### Bottom view with cover
 <img src="https://github.com/shotreal/lautfaenger/blob/main/3D/Lautfaenger01.png" alt="Bottom view with cover" width="100%">
