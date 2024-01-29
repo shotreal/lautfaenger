@@ -1,7 +1,5 @@
 # Noise Pollution Visualization Project
 
-![Project Banner](images/project_banner.png)
-
 ## Overview
 
 This project focuses on visualizing noise pollution on a map, leveraging a combination of hardware and software components. The hardware includes a 3D-printed case housing an Arduino WROOM32 and a Max9814 microphone for sound recording and Fourier analysis. 
