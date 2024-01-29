@@ -12,8 +12,14 @@ This project aims to contribute to the awareness and management of noise polluti
 
 ## Current State of Work
 
-The hardware design, including the 3D-printed case, is complete and available in the "3D" subfolder. 
+The design for the 3D-printed case, is complete and available in the "3D" subfolder. 
 The arduino code to to record sound, perform Fourier analysis, and calculate noise levels per frequency band is work in progress. After this is completed the next steps involves uploading this data to a webserver and visualizing it using InfluxDB and Grafana.
+
+## Challenges
+### Calibration
+The sound levels produced by the AD converter somehow need to be matched to db otherwies they are pretty ueseless. The first apporach is to do this by using a soundMeter app on a smartphone and play sounds of different voluemes and frequencies. 
+The readings of the app can then be used to calibrate.
+
 
 ## 3D Model Renderings
 
